@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYC Schools</string>
+    <string name="no_details" >No details found about this school</string>
+    <string name="notext" >Oops! Nothing to show :(</string>
+</resources>
